@@ -1,0 +1,2 @@
+# programmer
+harakatdan to'xtama
