@@ -1,2 +1,2 @@
 # programmer
-harakatdan to'xtama
+Bu yerda pythonda bajarilgan vazifalar bor
